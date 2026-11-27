@@ -1,0 +1,10 @@
+# Code and docs only
+.venv/
+__pycache__/
+*.pt
+*.log
+direct_captures/
+yolo_captures/
+perception_runs/
+vlm_runs/
+sign_runs/
